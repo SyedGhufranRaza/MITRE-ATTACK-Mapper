@@ -1,26 +1,26 @@
 # MITRE ATT&CK Mapper 🛡️
 
-MITRE ATT&CK Mapper is a tool designed to fetch and analyze CVE (Common Vulnerabilities and Exposures) details, map them to MITRE ATT&CK techniques, identify possible threat actors, and suggest mitigations. The tool leverages multiple APIs, including the [NVD API](https://nvd.nist.gov/), [MITRE ATT&CK](https://attack.mitre.org/), and [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog).
+MITRE ATT&CK Mapper is a tool designed to fetch and analyze CVE (Common Vulnerabilities and Exposures) details, map them to MITRE ATT&CK techniques, identify possible threat actors, and suggest mitigations.
+The tool leverages multiple APIs, including the [NVD API](https://nvd.nist.gov/), [MITRE ATT&CK](https://attack.mitre.org/), and [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog).
 
 ---
 
-## 🔥 Features
-- 📌 Fetches CVE details from the NVD API
-- 🔍 Maps CVEs to MITRE ATT&CK techniques
-- 🕵️ Identifies potential threat actors
-- ✅ Provides recommended mitigations
-- 🖥️ Displays results in a clean and structured format
+## Features
+- Fetches CVE details from the NVD API
+- Maps CVEs to MITRE ATT&CK techniques
+- Identifies potential threat actors
+- Provides recommended mitigations
+- Displays results in a clean and structured format
 
 ---
 
-## 📷 Screenshot
+## Output
 ![MITRE ATT&CK Mapper](image.png)
 
 ---
 
-## 🚀 Installation
+## Installation
 
-### Prerequisites
 Ensure you have Python 3 installed. You can check your version with:
 ```sh
 python --version
