@@ -22,22 +22,24 @@ MITRE ATT&CK Mapper is a tool designed to fetch and analyze CVE (Common Vulnerab
 
 ### Prerequisites
 Ensure you have Python 3 installed. You can check your version with:
-
 ```sh
 python --version
 ```
+<br />
+Clone the Repository
 ```sh
 git clone https://github.com/YourGitHubUsername/Mitre-Attack-Mapper.git
-```
-```sh
 cd Mitre-Attack-Mapper
 ```
+
+<br />
+Install Dependencies
 ```sh
 pip install -r requirements.txt
 ```
+
+<br />
+Run the script and enter the CVE ID to analyze:
 ```sh
 python mitre_mapper.py
-```
-```sh
-Enter CVE ID (e.g., CVE-2021-44228): CVE-2013-3238
 ```
