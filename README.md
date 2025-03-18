@@ -26,14 +26,14 @@ Ensure you have Python 3 installed. You can check your version with:
 python --version
 ```
 <br />
-Clone the Repository
+Clone the Repository:
 ```sh
 git clone https://github.com/YourGitHubUsername/Mitre-Attack-Mapper.git
 cd Mitre-Attack-Mapper
 ```
 
 <br />
-Install Dependencies
+Install Dependencies:
 ```sh
 pip install -r requirements.txt
 ```
