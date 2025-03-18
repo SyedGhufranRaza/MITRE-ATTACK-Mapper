@@ -39,5 +39,5 @@ pip install -r requirements.txt
 
 Run the script and enter the CVE ID to analyze:
 ```sh
-python mitre_mapper.py
+python mitre_mapper_script.py
 ```
